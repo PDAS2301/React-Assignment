@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Assignment 1-Set up react app in your local environment,create class component which have all the life cycle method(constructor,render,ComponentDidMount, ComponentDidUpdate,ComponentWillUnmount).
+
+Assignment 2- Take the array of object which will have First Name,Last Name,Contact no. , Email Id and display in Tabular form use Map function.(create Employee detail component)
+
+Assignment 3- Display the record of those employee whose department is i) CSE/ ECE ii)ECE and CSE
+Hint-using Map and Filter
+
+Assignment 4-Create a search box when we are typing Email of the employee, all the related data will get display below.On clicking on the search button employee related data based on the search result will be displayed in the console.
+
+Assignment 7-Create a new component as PokemonFetcher and call the following Api using fetch and Axios-
+https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0
